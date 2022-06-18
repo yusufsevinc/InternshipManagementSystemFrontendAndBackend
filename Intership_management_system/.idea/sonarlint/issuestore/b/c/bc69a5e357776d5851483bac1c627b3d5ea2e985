@@ -1,0 +1,9 @@
+
+r
+java:S1612$"WReplace this lambda with method reference 'approvedConverter::convertApprovedResponse'.(†½éğıÿÿÿÿ
+†
+java:S1488-"kImmediately return this expression instead of assigning it to the temporary variable "approvedResponseDto".(Ôîşÿÿÿÿÿ
+{
+java:S14884"`Immediately return this expression instead of assigning it to the temporary variable "approved".(Ã¥üÿÿÿÿÿ
+R
+java:S4973="<Strings and Boxed types should be compared using "equals()".(‘µ˜Ù

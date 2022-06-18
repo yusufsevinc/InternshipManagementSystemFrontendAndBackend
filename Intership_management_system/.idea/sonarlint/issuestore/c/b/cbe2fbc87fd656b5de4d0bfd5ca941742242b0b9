@@ -1,0 +1,7 @@
+
+e
+java:S1612+"JReplace this lambda with method reference 'cityConverter::convertCityDto'.(ιΫύ“ϋÿÿÿÿ
+|
+java:S14884"gImmediately return this expression instead of assigning it to the temporary variable "cityResponseDto".(πÒe
+~
+java:S1488;"\Immediately return this expression instead of assigning it to the temporary variable "city".(ήςϋΐύÿÿÿÿ8¦ρÿ/

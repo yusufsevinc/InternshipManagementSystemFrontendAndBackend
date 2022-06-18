@@ -1,0 +1,11 @@
+
+p	java:S116"VRename this field "person_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó¢°Æúÿÿÿÿ
+s	java:S116"YRename this field "person_surname" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þˆææûÿÿÿÿ
+G
+java:S1948 ",Make "positionId" transient or serializable.(ö¸šÂûÿÿÿÿ
+?
+java:S1948$")Make "titleId" transient or serializable.(‡¡Ãø
+C
+java:S1948("(Make "unitId" transient or serializable.(º°›Úýÿÿÿÿ
+M
+java:S1948+"0Make "setTransaction" transient or serializable.(ŽÖ·Â8ÅÜŠ«ø/

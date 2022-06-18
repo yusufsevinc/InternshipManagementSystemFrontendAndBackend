@@ -1,0 +1,11 @@
+
+h
+java:S16121"MReplace this lambda with method reference 'companyConverter::convertCompany'.(ü­¦Êýÿÿÿÿ
+h
+java:S1612:"MReplace this lambda with method reference 'companyConverter::convertCompany'.(ü­¦Êýÿÿÿÿ
+€
+java:S1488C"jImmediately return this expression instead of assigning it to the temporary variable "companyResponseDto".(õç­ÿ
+z
+java:S1488J"_Immediately return this expression instead of assigning it to the temporary variable "company".(Ž„äâÿÿÿÿÿ
+R
+java:S4973S"<Strings and Boxed types should be compared using "equals()".(Åêýó
